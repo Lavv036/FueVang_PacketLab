@@ -5,9 +5,9 @@ This project is a Cisco Lab midterm network build demonstrating core networking 
 In my attempt, the network was designed with a three-tier hierarchical architecture, separating responsibilities across the Core, Distribution, and Access layers to improve scalability, redundancy, and control. All three tiers are separated by color for better distinction. 
 
 Devices used:
-11x PCs (1 Management, 1 WAN)
-7x 2960 Cisco Switches
-4x 2911 Cisco Routers
+11x PCs (1 Management, 1 WAN), 
+7x 2960 Cisco Switches, 
+4x 2911 Cisco Routers, 
 2x Servers
 
 # What Worked Well
